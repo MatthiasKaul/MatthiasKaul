@@ -1,1 +1,0 @@
-I am a theoretical Computer Scientist / Mathematician with interests in Integer Linear Programming, Parameterized Complexity, and LP-Hierarchies. Right now I'm working towards a PhD at the Hamburg University of Technology. You can reach out via matthias.kaul@tuhh.de
